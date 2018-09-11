@@ -12,7 +12,7 @@ A PyTorch implementation of "Variational Sequential Labelers for Semi-Supervised
 
 ## Data and Pretrained Embeddings
 
-Download: [Twitter data](https://code.google.com/archive/p/ark-tweet-nlp/downloads), [Universal Dependencies](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1827?show=full), [Embeddings (including Twitter and UD)](https://drive.google.com/drive/folders/1oie43_thsbhhoUsOHlkyKj2iMpFNOrgA?usp=sharing)
+Download: [Twitter](https://code.google.com/archive/p/ark-tweet-nlp/downloads), [Universal Dependencies](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1827?show=full), [Embeddings (for Twitter and UD)](https://drive.google.com/drive/folders/1oie43_thsbhhoUsOHlkyKj2iMpFNOrgA?usp=sharing)
 
 Run `process_{ner,twitter,ud}_data.py` first to generate `*.pkl` files and then use it as input for `vsl_{g,gg}.py`.
 
