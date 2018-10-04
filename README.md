@@ -1,6 +1,6 @@
 # VSL
 
-A PyTorch implementation of "Variational Sequential Labelers for Semi-Supervised Learning" (EMNLP 2018)
+A PyTorch implementation of "[Variational Sequential Labelers for Semi-Supervised Learning](http://ttic.uchicago.edu/~mchen/papers/mchen+etal.emnlp18.pdf)" (EMNLP 2018)
 
 
 ## Prerequisites
